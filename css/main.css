@@ -1,0 +1,19 @@
+body {
+    background-color: #343130 ;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.vali {
+    padding-left: 30px;
+}
+
+#otsikko {
+    text-align: left;
+}
+
+#copyright {
+    text-align: center;
+}

@@ -1,2 +1,2 @@
-# osanaytto-koulu
-HTML ja CSS osanäyttö
+# Osanäyttö
+Tämä on osanäyttö työ  
